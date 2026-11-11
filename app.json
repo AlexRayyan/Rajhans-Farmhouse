@@ -5,13 +5,19 @@
     "scheme": "rajhansadmin",
     "version": "1.0.0",
     "orientation": "portrait",
-    "userInterfaceStyle": "dark",
+    "userInterfaceStyle": "automatic",
     "android": {
       "package": "com.rajhansfarmhouse.admin"
     },
     "ios": {
       "bundleIdentifier": "com.rajhansfarmhouse.admin"
     },
-    "plugins": []
+    "plugins": [],
+    "owner": "alexrayyan",
+    "extra": {
+      "eas": {
+        "projectId": "d27be611-4ca9-4a86-8d72-1003f8e09225"
+      }
+    }
   }
 }
